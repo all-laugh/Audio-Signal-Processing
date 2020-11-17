@@ -1,1 +1,1 @@
-My original homework submissions for the Audio Signal Processing course on Coursera ( ASSIGNMENTS folder only )
+My original homework submissions for the Audio Signal Processing course on Coursera ( "assignments" folder only )
